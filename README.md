@@ -12,5 +12,7 @@
 |---|---|---|
 | [Лабораторная №1](laba1/) | Git и системы контроля версий | [Отчёт PDF](laba1/Lab1_Git_Tasmina_Khuzhamova_FINAL.pdf), [README](laba1/README.md) |
 | [Лабораторная №2](laba2/) | Основы ООП | [Исходный код](laba2/main.py), [отчёт](laba2/README.md), [скриншот результата](laba2/screenshots/result.png) |
+| [Лабораторная №3](laba3/) | Порождающие паттерны | [Отчёт и результаты запуска](laba3/README.md) |
+| [Лабораторная №4](laba4/) | Поведенческие паттерны | [Отчёт и результаты запуска](laba4/README.md) |
 
 Структура репозитория организована по лабораторным работам, по образцу [репозитория сокурсника](https://github.com/zagrebine/programming-technologies).
